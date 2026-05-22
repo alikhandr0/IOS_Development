@@ -75,10 +75,3 @@
 * **Многопоточность:** Swift Concurrency (Actors, Async/Await, TaskGroup)
 * **Инструменты анализа:** Xcode Instruments (Leaks / Allocations), Debug Memory Graph, Thread Sanitizer
 
----
-
-## 🚀 Инструкция по сборке и запуску
-
-1. **Клонируйте репозиторий на локальную машину:**
-   ```bash
-   git clone [https://github.com/alikhandroo/ios-advanced-portfolio.git](https://github.com/alikhandroo/ios-advanced-portfolio.git)
